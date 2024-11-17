@@ -1,10 +1,9 @@
 # stl
 
-This repository contains own implementation of basic STL functions 
+This repository contains its own implementation of basic STL functions, such as:
 such as:
 - Hash Map
 - Vector
 - String
 
-Also it have implementation of syscall indices parser
-and syscalls itself
+Additionally, it includes an implementation of a syscall indices parser and the syscalls themselves.
